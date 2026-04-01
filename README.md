@@ -30,5 +30,6 @@ A selection of my recent implementations and research reports:
   * 📓 [Notebook](https://colab.research.google.com/drive/1D7RwJjpFA-PRsKq1qWkDQF-ZaG2sthuw?usp=sharingì)
 * **Network dynamics through mean field equations:** Academic project focusing on mathematical methods and their computational applications.
   * 📂 [Project](progetto_metodi)
-
+* **Importance of MLP in attention mechanisms:** Research paper proving the fundamental role of MLP layers in Transformers through the Kronecker product.
+  * 📄 [Paper](MLP_Unchained.pdf)
 ---
